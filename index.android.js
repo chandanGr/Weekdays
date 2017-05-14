@@ -4,7 +4,6 @@ import { AppRegistry, Text, View, StyleSheet } from 'react-native';
 var DayItem = require("./src/day-item");
 var Moment = require("moment"); 
 
-//var DAYS = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thrusday", "Friday", "Saturday"];
 
 class MyApp extends Component{
     days(){
